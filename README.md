@@ -29,6 +29,8 @@ graph TD
     end
 ```
 
+![n8n Workflow Screenshot](assets/workflow-screenshot.png)
+
 ---
 
 ## ✨ Features
